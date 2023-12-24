@@ -23,6 +23,13 @@ Additional Setup
 Be sure to copy config.def.h to config.h file.
 If something doesn't work after patching, you can reset back to a previous commit :) .
 
+Patches Applied
+-------------
+tools.suckless.org_dmenu_patches_alpha_dmenu-alpha-20230110-5.2.diff
+tools.suckless.org_dmenu_patches_border_dmenu-border-20230512-0fe460d.diff
+tools.suckless.org_dmenu_patches_center_dmenu-center-5.2.diff
+tools.suckless.org_dmenu_patches_fuzzymatch_dmenu-fuzzymatch-4.9.diff
+tools.suckless.org_dmenu_patches_numbers_dmenu-numbers-20220512-28fb3e2.diff
 
 Running dmenu
 -------------
