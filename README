@@ -1,6 +1,6 @@
-dmenu - dynamic menu
+dmenu - dynamic menu - tr0b edition
 ====================
-dmenu is an efficient dynamic menu for X.
+dmenu is an efficient dynamic menu for X. This version has been modified to fit my personal preferences.
 
 
 Requirements
@@ -17,6 +17,11 @@ Afterwards enter the following command to build and install dmenu
 (if necessary as root):
 
     make clean install
+
+Additional Setup
+-------------
+Be sure to copy config.def.h to config.h file.
+If something doesn't work after patching, you can reset back to a previous commit :) .
 
 
 Running dmenu
